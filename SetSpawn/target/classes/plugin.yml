@@ -1,0 +1,8 @@
+name: SetSpawn
+main: dev.vinchex.setspawn.Main
+version: 1.0.0
+author: Vinchex
+commands:
+  setspawn:
+    description: Command to set spawn of a server
+    usage: /setspawn
